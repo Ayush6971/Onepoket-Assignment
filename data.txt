@@ -1,0 +1,2 @@
+This file is for dummy text so that the we can count the words from this file.
+This is a new line.

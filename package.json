@@ -1,0 +1,8 @@
+{
+  "name": "onepoket-assignment",
+  "version": "1.0.0",
+  "description": "this is an assignment from Onepoket",
+  "main": "index.js",
+  "author": "Ayush Sahu",
+  "license": "ISC"
+}
